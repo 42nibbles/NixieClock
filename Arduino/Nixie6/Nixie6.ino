@@ -2,7 +2,7 @@
 
 //RTC relevant stuff
 #include <DS1307RTC.h>
-#include <Time.h>
+#include <time.h>
 #include <TimeLib.h>
 #include <Timezone.h>
 #include <Wire.h>
