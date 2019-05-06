@@ -1,5 +1,7 @@
 ﻿# NixieClock
+
 Combining Nixie tube technology with IoT
+
 * Providing vintage style Nixie tube clock suitability for daily use.
 * Building of a basis for testing and demonstrating IoT stuff using
   the [ESP8266](
@@ -10,7 +12,8 @@ Combining Nixie tube technology with IoT
   miscellaneous Nixie tubes, software and so forth within your own
   handicraft work.
   
-# Firmware
+## Firmware
+
 The _firmware_ can be found in the Arduino folder. Compilation was
 tested under Arduino.cc. You might use the libraries found in the
 library folder. At least you will need the _NixieClock_
@@ -32,19 +35,20 @@ Furthermore there are the two Arduino sketch folders _Nixie4_ and
 _Nixie6._ _Nixie4_ is the firmware used by our 4 tube prototype;
 _Nixie6_ is used by our 6 tube prototype.
 
+### Prototype with 4 ИН-1 Nixie tubes
 
-## Prototype with 4 ИН-1 Nixie tubes
 ![Prototype ИН-1 Nixie clock](./pic/P1010273_s.jpg "4x ИН-1 tube
 type")
 
-This clock is an implementation with 4 ИН-1 Nixie tubes. 
+This clock is an implementation with 4 ИН-1 Nixie tubes.
 
+### Prototype with 6 ИН-12А Nixie tubes
 
-## Prototype with 6 ИН-12А Nixie tubes
 ![Prototype ИН-12А Nixie clock](./pic/P1010278_s.jpg "6x ИН-12А tube
 type")
 
-# Hardware Description
+## Hardware Description
+
 ![Beware of electric shock!](./pic/High_Voltage.jpg "Beware of
 electric shock!")
 
